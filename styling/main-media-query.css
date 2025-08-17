@@ -208,8 +208,7 @@ p.console-text {
 
 #section-4-step-1 h2 {
     font-family: Orbitron, monospace;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
+    writing-mode: horizontal-tb;
     height: 2000px;
     font-size: 96px;
 }
