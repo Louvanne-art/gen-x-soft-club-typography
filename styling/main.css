@@ -216,6 +216,7 @@ p.console-text {
 #section-4-step-2 h3 {
     font-family: Orbitron, monospace;
     font-size: 16px;
+    max-width: 90%;
 }
 
 #section-a-different-kind-of-human {

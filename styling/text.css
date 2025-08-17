@@ -1,13 +1,13 @@
 /* Font family */
 @font-face {
     font-family: Orbitron;
-    src: url('public/fonts/Orbitron-Regular.ttf');
+    src: url('../public/fonts/Orbitron-Regular.ttf');
     font-weight: normal;
 }
 
 @font-face {
     font-family: Orbitron;
-    src: url('public/fonts/Orbitron-Bold.ttf');
+    src: url('../public/fonts/Orbitron-Bold.ttf');
     font-weight: bold;
 }
 
