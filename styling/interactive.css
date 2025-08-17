@@ -1,0 +1,40 @@
+.interactive-circle {
+    width: 22px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+} 
+
+.interactive-circle-white {
+    background-color: rgba(255, 255, 255, 0.21);
+    transition: background-color 300ms ease-in-out;
+}
+
+.interactive-circle-white:hover {
+    background-color: rgba(255, 255, 255, 0.80);
+    transition: background-color 300ms ease-in-out;
+}
+
+.interactive-circle-red {
+    background-color: rgba(254, 126, 126, 0.21);
+    transition: background-color 300ms ease-in-out;
+}
+
+.interactive-circle-red:hover {
+    background-color: rgba(254, 126, 126, 0.80);
+    transition: background-color 300ms ease-in-out;
+}
+
+.vertical-interactive-circles {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: end;
+    padding: 1em 2em;
+}
+
+.horizontal-interactive-circles {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 1em 2em;
+}
