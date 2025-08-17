@@ -239,7 +239,7 @@ p.console-text {
 }
 
 #section-4-fading {
-    background-image: url('/public/Background_tile_256.png');
+    background-image: url('../public/Background_tile_256.png');
     mask-image: linear-gradient(transparent, black 200vh);
     -webkit-mask-image: linear-gradient(transparent, black 200vh);
     height: 300vh;

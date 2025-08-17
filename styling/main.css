@@ -1,5 +1,5 @@
 body {
-    background-image: url('/public/Background_tile_256.png');
+    background-image: url('../public/Background_tile_256.png');
     margin-top: 70px;
 }
 
@@ -201,8 +201,6 @@ p.console-text {
 
 #section-4-step-1 h2 {
     font-family: Orbitron, monospace;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
     height: 1000px;
     font-size: 48px;
 }
@@ -233,7 +231,7 @@ p.console-text {
 }
 
 #section-4-fading {
-    background-image: url('/public/Background_tile_256.png');
+    background-image: url('../public/Background_tile_256.png');
     mask-image: linear-gradient(transparent, black 200vh);
     -webkit-mask-image: linear-gradient(transparent, black 200vh);
     height: 300vh;
