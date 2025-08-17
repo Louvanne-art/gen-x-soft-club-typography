@@ -4,6 +4,15 @@ body {
 }
 
 /* Section 1 - ALL IS SOFT INSIDE */
+
+
+#music-player {
+    bottom: 20px;
+    top: auto;
+    left: 11vw;
+    right: auto;
+}
+
 #section-all-is-soft-inside {
     display: flex;
     flex-direction: row-reverse;
