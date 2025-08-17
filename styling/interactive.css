@@ -38,3 +38,9 @@
     gap: 20px;
     padding: 1em 2em;
 }
+
+@media only screen and (min-width: 800px) {
+    .vertical-interactive-circles {
+        display: none;
+    }
+}
