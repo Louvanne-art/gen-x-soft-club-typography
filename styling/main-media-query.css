@@ -202,7 +202,7 @@ p.console-text {
 
 #section-4-step-1 img {
     width: 20vw;
-    margin: 100px 0;
+    margin: 150px 0 50px 0;
     aspect-ratio: fixed;
 }
 
@@ -229,7 +229,7 @@ p.console-text {
 
 #section-a-different-kind-of-human>img {
     width: 98%;
-    top: 60px;
+    top: 100px;
     position: absolute;
     z-index: 5;
 }
