@@ -112,7 +112,7 @@ p.console-text {
 #section-2-image-container .vector {
     z-index: 2;
     bottom: -200px;
-    right: 25px;
+    right: 0;
     height: 600px;
     position: absolute;
 }
