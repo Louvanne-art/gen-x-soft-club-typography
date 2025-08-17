@@ -81,7 +81,7 @@ p.console-text {
     top: 1em;
     left: 2em;
     z-index: 5;
-    font-size: 16pt;
+    font-size: 12pt;
 }
 
 #section-a-temporary-high>.horizontal-interactive-circles{
@@ -118,13 +118,13 @@ p.console-text {
 }
 
 #section-2-image-text {
-    font-size: 50px;
+    font-size: 36pt;
     bottom: 390px;
     right: 200px;
 }
 
 #section-2-bottom-text {
-    font-size: 64px;
+    font-size: 46pt;
     bottom: 320px;
     right: 40px;
     line-height: 64px;
@@ -163,7 +163,7 @@ p.console-text {
 
 #section-3-container h2 {
     text-align: unset;
-    font-size: min(8vh, 80px);
+    font-size: min(8vh, 60pt);
     position: absolute;
     mix-blend-mode: multiply;
 }
@@ -223,7 +223,7 @@ p.console-text {
 
 #section-4-step-2 h3 {
     font-family: Orbitron, monospace;
-    font-size: 36px;
+    font-size: 24pt;
     max-width: 90%;
 }
 

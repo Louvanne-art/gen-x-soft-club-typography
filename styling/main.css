@@ -135,7 +135,7 @@ p.console-text {
     display: flex;
     justify-content: space-between;
     font-family: Orbitron, monospace;
-    font-size: 36px;
+    font-size: 24pt;
     z-index: 3;
     position: absolute;
     bottom: 80px;
@@ -155,7 +155,7 @@ p.console-text {
 /* Section 3 - WHAT HAPPENED TO THE HEART */
 
 #section-3-container {
-    height: 100vh;
+    min-height: 100vh;
     background-color: white;
 
     display: flex;
@@ -170,7 +170,7 @@ p.console-text {
 }
 
 #section-3-container h2 {
-    font-size: 64px;
+    font-size: 40pt;
     text-align: center;
     background: -webkit-radial-gradient(#35abb891 25%, #66e8f69f 100%);
     -webkit-background-clip: text;
@@ -204,7 +204,7 @@ p.console-text {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     height: 1000px;
-    font-size: 48px;
+    font-size: 36pt;
 }
 
 #section-4-step-2>div {
@@ -217,7 +217,7 @@ p.console-text {
 
 #section-4-step-2 h3 {
     font-family: Orbitron, monospace;
-    font-size: 16px;
+    font-size: 12pt;
     max-width: 90%;
 }
 
